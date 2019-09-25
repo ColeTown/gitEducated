@@ -1,4 +1,8 @@
 # gitEducated
-Test repository
+
+red
+green 
+purple
+yellow
 
 1234
